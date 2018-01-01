@@ -4,7 +4,6 @@ Minimal template to get a basic scene with A-Frame running on Figwheel.
 
 ## Overview
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
 For a detailed explanation of what's going on please read the [blog post](https://ennuiocclusion.github.io/2017/12/30/lisp-vr-with-clojurescript-and-aframe.html).
 
 ## Setup
